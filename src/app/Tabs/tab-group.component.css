@@ -1,0 +1,11 @@
+.tab-header{
+  padding: 10px;
+  width: 100%;
+}
+.tab-item-header{
+  float: left;
+  padding: 5px;
+  color: brown;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
